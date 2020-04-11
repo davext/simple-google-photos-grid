@@ -1,3 +1,8 @@
+# Why I forked it?
+
+Attempting to add https://github.com/desandro/masonry to it. Let's see how it goes
+
+
 # Simple Google Photos WordPress Plugin
 [Get the plugin here](https://wordpress.org/plugins/simple-google-photos-grid/). Provides a WordPress widget and shortcode to display photos from a public Google Photos album. [See a demo and read more about the plugin](https://josheli.com/knob/2017/11/21/simple-google-photos-a-wordpress-plugin/).
 
